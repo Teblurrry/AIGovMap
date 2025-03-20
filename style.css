@@ -1,0 +1,11 @@
+/* map styling */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#map {
+    height: 500px;
+    width: 80%;
+    margin: auto;
+}
